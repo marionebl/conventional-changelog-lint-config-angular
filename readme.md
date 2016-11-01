@@ -30,16 +30,18 @@ The following rules are considered problems for `conventional-changelog-lint-con
 * **rule**: `always`
 * **value**
   ```js
-    [
-      'feat',
-      'fix',
-      'docs',
-      'style',
-      'refactor',
-      'test',
-      'chore',
-      'revert'
-    ]
+	[
+		'feat',
+		'fix',
+		'docs',
+		'style',
+		'refactor',
+		'perf',
+		'test',
+		'build',
+		'ci',
+		'chore'
+	]
   ```
 
 #### type-case
