@@ -56,7 +56,8 @@ module.exports = {
 				'test',
 				'build',
 				'ci',
-				'chore'
+				'chore',
+				'revert'
 			]
 		]
 	},

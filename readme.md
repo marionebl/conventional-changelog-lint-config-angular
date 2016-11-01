@@ -40,7 +40,8 @@ The following rules are considered problems for `conventional-changelog-lint-con
 		'test',
 		'build',
 		'ci',
-		'chore'
+		'chore',
+		'revert'
 	]
   ```
 
